@@ -1,0 +1,6 @@
+
+assets: ["bitcoin", "ethereum"]
+base_currency: "usd"
+interval_seconds: 10
+anomaly_z: 3.0
+cycles: 5
